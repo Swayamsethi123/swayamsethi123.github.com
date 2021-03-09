@@ -1,2 +1,2 @@
-# Swayamsethi123.github.io
+# Swayamsethi123.github.com
 Various AI based University list
